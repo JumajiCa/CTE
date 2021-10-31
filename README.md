@@ -1,16 +1,16 @@
 # ✨ CTE. - The One And Only 'Cringe Text Editor' ✨
 
 - This is just my horrible rendition of the really well put tutorial series
-created by [Snaptoken](ttps://github.com/snaptoken/kilo-src) on Github in which
+created by [Snaptoken](https://github.com/snaptoken/kilo-src) on Github in which
 he goes about how he put together a text editor called 'Kilo'.
 
-> Rest, but not in peace.
+> Rest, but not in peace. - Cringe and Me, Circa 2021.
 
 ## Instalation
 
 - If for some ungodly reason you actually want to give this text editor a shot
 despite its name and the introduction that I gave it at the top of this
-repository, well, you're just as far gone as it gets, so here are the instruction.
+repository, well, you're just as far gone as it gets, so here are the instructions.
 
 ### Unix And Unix - Like Systems
 
